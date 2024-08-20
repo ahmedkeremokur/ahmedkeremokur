@@ -60,3 +60,6 @@
 </div>
 
 ###
+
+### "The project I'm currently working on is this one. If you'd like to learn more about me, feel free to take a look. However, I must warn you—this is a work in progress. The code might appear a bit unorganized, and comments are scarcer than they should be."
+- [Gladius](https://github.com/ahmedkeremokur/Gladius)
