@@ -61,5 +61,12 @@
 
 ###
 
-### "The project I'm currently working on is this one. If you'd like to learn more about me, feel free to take a look. However, I must warn you—this is a work in progress. The code might appear a bit unorganized, and comments are scarcer than they should be."
-- [Gladius](https://github.com/ahmedkeremokur/Gladius)
+The project I'm currently working on is this one. If you'd like to learn more about me, feel free to take a look. However, I must warn you—this is a work in progress. The code might appear a bit unorganized, and comments are scarcer than they should be.
+
+<div align="center">
+  <a href="https://github.com/ahmedkeremokur/Gladius">
+    <img src="https://github.com/user-attachments/assets/385e0719-82f0-466e-98cc-ff485b1b2e36" alt="gladiusgithub" />
+  </a>
+</div>
+
+### 
