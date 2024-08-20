@@ -54,7 +54,9 @@
 ###
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ahmedkeremokur?theme=light&font=NTR" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/ahmedkeremokur/">
+    <img src="https://leetcard.jacoblin.cool/ahmedkeremokur?theme=light&font=NTR" alt="LeetCode Stats" />
+  </a>
 </div>
 
 ###
