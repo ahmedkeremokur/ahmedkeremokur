@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm an enthusiast in game development. Following my graduation from mechanical engineering, I began honing my Unity C# game programming skills.<br><br>- 🔭I’m currently working on my 2D RPG game Gladius.<br>- 📚 I'm currently learning a game developing with Unity.</p>
+<p align="left">I'm an enthusiast in game development. Following my graduation from mechanical engineering, I began honing my Unity C# game programming skills.<br><br>- 🔭I’m currently working on my thesis. Also i quit developing gladius. That's just a envanter system with shitty UI.<br>- 📚 I'm currently learning a game developing with Unity.</p>
 
 ###
 
